@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 /*
 Given an array of intervals, find the biggest 
 possible number of mutually disjoint intervals.
