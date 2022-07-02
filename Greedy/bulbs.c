@@ -77,7 +77,7 @@ void greedy()
 
 int main()
 {
-    // naive(); // The Naive Approach
-    greedy(); // The Greedy Approach
+    // naive(); // The Naive Approach O(n^2) time complexity
+    greedy(); // The Greedy Approach O(n) time complexity
     return 0;
 }
